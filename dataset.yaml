@@ -1,4 +1,4 @@
-path: F:/Python/Hack/dataset
+path: dataset
 train: images
 val: images
 
