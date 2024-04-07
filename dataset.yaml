@@ -1,0 +1,6 @@
+path: F:/Python/Hack/dataset
+train: images
+val: images
+
+nc: 1
+names: ['Road']
